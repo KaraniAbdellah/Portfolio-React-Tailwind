@@ -1,35 +1,34 @@
 # Portfolio ReactJS 💼
 
-### Características 📋 
-- Diseño moderno y atractivo con una interfaz intuitiva y fácil de usar.
-- Soporte para modo oscuro que proporciona una experiencia visual agradable incluso en entornos de poca luz.
-- Animaciones suaves y elegantes utilizando AOS (Animate On Scroll) para resaltar elementos clave en el sitio.
-- Uso de componentes personalizados de DaisiUI para crear una interfaz coherente y atractiva.
-- Implementación de layouts flexibles y responsivos utilizando TailwindCSS, lo que garantiza que el sitio se adapte a diferentes dispositivos y tamaños de pantalla.
-- Opcionalmente puedes configurar un form personalizado en Getform.io para recibir mensajes.
+### Features 📋
+- Modern and attractive design with an intuitive and user-friendly interface.
+- Support for dark mode, providing a pleasant visual experience even in low-light environments.
+- Smooth and elegant animations using AOS (Animate On Scroll) to highlight key elements on the site.
+- Use of custom components from DaisiUI to create a consistent and attractive interface.
+- Implementation of flexible and responsive layouts using TailwindCSS, ensuring the site adapts to different devices and screen sizes.
+- Optionally, you can set up a custom form on Getform.io to receive messages.
 
 ![View_APP](https://i.imgur.com/c9GFjAW.png)
 
+### Technologies Used 🧑‍💻
+- ReactJS: A powerful JavaScript library for building interactive and reusable user interfaces.
+- TailwindCSS: A highly customizable CSS framework that streamlines development and provides consistent design.
+- DaisiUI: A React component library designed with style and easy customization.
+- AOS (Animate On Scroll): A CSS animation library that adds eye-catching effects as elements scroll on the screen.
 
-### Tecnologías utilizadas 🧑‍💻 
-- ReactJS: Potente biblioteca JavaScript para construir interfaces de usuario interactivas y reutilizables.
-- TailwindCSS: Framework de CSS altamente personalizable que agiliza el desarrollo y ofrece un diseño consistente.
-- DaisiUI: Biblioteca de componentes React diseñados con estilo y personalización sencilla.
-- AOS (Animate On Scroll): Biblioteca de animaciones CSS que permite agregar efectos visuales llamativos a medida que los elementos se desplazan en la pantalla.
-  
+Feel free to customize and enhance this portfolio according to your specific requirements and preferences.
 
-Siéntete libre de personalizar y mejorar este portfolio de acuerdo a tus requerimientos y preferencias específicas. 
+### Installation 🔧
 
-### Instalación 🔧
+#### Download Repository ✨
 
-#### Descarga de repositorios ✨
-
-A través del siguiente comando es posible descargar el repositorio con el siguiente comando:
+You can download the repository using the following command:
 
 ```
 git clone https://github.com/LILEnrique/Portfolio-ReactJS-TailwindCSS
 ```
 
 
+Developed with ❤️ by [Abdellah Karani](https://github.com/KaraniAbdellah) 😼
 
-Desarrollado con ❤️ por [LILEnrique](https://github.com/LILEnrique) 😼
+
