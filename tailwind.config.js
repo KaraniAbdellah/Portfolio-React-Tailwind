@@ -7,12 +7,10 @@ module.exports = {
     extend: {
       colors: {
         'text': '#F7F7F7',
-'background': '#090909',
-'primary-button': '#b8c2b3',
-'secondary-button': '#000000',
-'accent': '#7a947e',
-      
-        
+        'background': '#090909',
+        'primary-button': '#b8c2b3',
+        'secondary-button': '#000000',
+        'accent': '#7a947e',
       },
       darkMode: 'class',
     },

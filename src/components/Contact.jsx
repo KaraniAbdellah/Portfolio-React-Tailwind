@@ -6,7 +6,7 @@ const Contact = ({ darkMode }) => {
       id="contact"
       className={`w-full h-full py-24 flex justify-center items-center p-4 ${darkMode ? "dark:bg-zinc-800 text-white" : "bg-white text-black"} `}
     >
-      <form method="POST" className="flex flex-col max-w-[600px] w-full">
+      <form method="" className="flex flex-col max-w-[600px] w-full">
         <div>
           <p className="text-4xl font-extrabold inline border-b-4 border-primary ">Contact</p>
           <p className=" py-8" data-aos="fade-right">

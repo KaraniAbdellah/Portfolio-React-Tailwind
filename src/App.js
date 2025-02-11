@@ -8,6 +8,8 @@ import Skills from './components/Skills';
 import Work from './components/Work';
 import Contact from './components/Contact';
 
+import Inputs from './components/Inputs';
+
 
 const App = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -25,6 +27,7 @@ const App = () => {
       <Work darkMode={isDarkMode}/>
       <Contact darkMode={isDarkMode}/>
       <Footer darkMode={isDarkMode}/>
+      <Inputs />
     </div>
   );
 };

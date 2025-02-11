@@ -9,7 +9,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
   return (
     <div
       className={` ${
-        darkMode ? "dark:bg-zinc-900" : "bg-zinc-100"
+        darkMode ? "bg-zinc-900" : "bg-zinc-100"
       } fixed w-full h-[70px] flex justify-between items-center px-4 drop-shadow-md font-medium z-20 `}
     >
       <div>

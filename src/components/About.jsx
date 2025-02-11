@@ -4,7 +4,7 @@ import Perfil from "../assets/Saly-13.png";
 
 const About = ({ darkMode }) => {
   return (
-    <section id="about" className={`py-24 ${darkMode ? "dark:bg-zinc-900" : "bg-zinc-100"}`}>
+    <section id="about" className={`py-24 ${darkMode ? "bg-zinc-900" : "bg-zinc-100"}`}>
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/3 sm:w-full xl:1/3">

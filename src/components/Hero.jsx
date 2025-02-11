@@ -23,7 +23,7 @@ const Hero = ({ darkMode }) => {
   }, [darkMode]);
 
   return (
-    <section className={`bg-white ${darkMode ? "dark:bg-zinc-800" : ""}`}>
+    <section className={`bg-white ${darkMode ? "bg-zinc-800" : ""}`}>
       <div id="home" className="hero min-h-screen relative">
         <div className="hero-content flex-col lg:flex-row-reverse relative ">
           <img src={chaos} className="w-[500px] absolute top-0 right-0 object-cover " alt="chaos" data-aos="zoom-in" />
