@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -17,6 +17,7 @@ const App = () => {
   const toggleDarkMode = () => {
     setIsDarkMode(!isDarkMode);
   };
+
 
   return (
     <div className={isDarkMode ? 'dark' : ''}>
